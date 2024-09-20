@@ -1,0 +1,25 @@
+.era {
+    border: hidden 2px;
+    border-radius: 25px;
+    padding: 30px 25px 60px 50px;
+    box-shadow: 6px 6px 20px #44215f77;
+    background-color: #36296336;
+
+}
+
+.erasSection {
+    padding: 25px 900px 25px 0px;
+    display: inline-block;
+}
+
+.headers{
+    color: #502b2b;
+    font-family: sans-serif;
+}
+
+.table{
+    color: rgba(255, 244, 244, 0.82);
+    border-collapse: collapse;
+    text-align: left;
+    border-spacing: 10px;
+}

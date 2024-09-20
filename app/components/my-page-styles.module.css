@@ -1,0 +1,16 @@
+@font-face {font-family: "SUSE"; src: "../fonts/SUSE/static/SUSE-ExtraBold.tff"} 
+
+.home{
+    padding: 10px 20px 10px 50px;
+    background-image: linear-gradient(#A5C9A5,
+    #EFC180,#C7A8CB,#7A2E39,#B5E5F8,#746F70,
+    #F7B0CC,#CDC9C1,#C5AC90,#242E47, #e0d5c2);
+    color: rgba(255, 244, 244, 0.82);
+
+}
+
+.headers{
+    color:rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-style: bold;
+}
